@@ -1,0 +1,8 @@
+{
+  "name": "四分之一波抗反射膜（空气/理想AR层/BK7）",
+  "nIncident": 1.0,
+  "nSubstrate": 1.5,
+  "layers": [
+    { "name": "AR", "thicknessNm": 112.27, "materialSpec": { "kind": "constant", "params": [1.224744871, 0] } }
+  ]
+}

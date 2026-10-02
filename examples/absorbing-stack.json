@@ -1,0 +1,9 @@
+{
+  "name": "含吸收膜层的膜系",
+  "nIncident": 1.0,
+  "nSubstrate": 1.5,
+  "layers": [
+    { "name": "lossy", "thicknessNm": 200, "n": [2.3, 0.08] },
+    { "name": "spacer", "thicknessNm": 112.27, "n": [1.224744871, 0] }
+  ]
+}
