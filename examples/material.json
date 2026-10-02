@@ -1,0 +1,4 @@
+{
+  "name": "passive-absorber@550nm",
+  "refractiveIndex": { "re": 2.2, "im": 0.35 }
+}

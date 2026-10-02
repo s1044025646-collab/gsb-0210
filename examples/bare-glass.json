@@ -1,0 +1,8 @@
+{
+  "name": "bare-glass",
+  "stack": {
+    "incident": { "name": "air", "refractiveIndex": 1 },
+    "layers": [],
+    "substrate": { "name": "glass", "refractiveIndex": 1.5 }
+  }
+}

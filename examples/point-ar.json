@@ -1,0 +1,12 @@
+{
+  "stack": {
+    "incident": { "name": "air", "refractiveIndex": 1 },
+    "layers": [
+      { "name": "quarter-wave", "refractiveIndex": 1.224744871391589, "thicknessNm": 81.64965809277261 }
+    ],
+    "substrate": { "name": "glass", "refractiveIndex": 1.5 }
+  },
+  "wavelengthNm": 400,
+  "angleDeg": 0,
+  "polarization": "both"
+}

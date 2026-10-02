@@ -1,0 +1,12 @@
+{
+  "name": "bare-glass-angle",
+  "stack": {
+    "incident": { "refractiveIndex": 1 },
+    "layers": [],
+    "substrate": { "refractiveIndex": 1.5 }
+  },
+  "wavelengthNm": 550,
+  "angleStartDeg": 0,
+  "angleStopDeg": 80,
+  "angleStepDeg": 1
+}

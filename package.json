@@ -1,0 +1,22 @@
+{
+  "name": "multilayer-optics-backend",
+  "version": "1.0.0",
+  "description": "Windows-local multilayer thin-film reflection/transmission and polarization API and CLI",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "node --experimental-sqlite --import tsx --test tests/*.test.ts",
+    "start": "node --experimental-sqlite dist/server.js",
+    "dev": "node --experimental-sqlite --import tsx src/server.ts",
+    "cli": "node --experimental-sqlite --import tsx src/cli.ts",
+    "demo": "node --experimental-sqlite --import tsx src/cli.ts demo"
+  },
+  "keywords": ["thin-film", "fresnel", "optics", "sqlite"],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

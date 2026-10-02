@@ -1,0 +1,14 @@
+{
+  "name": "quarter-wave-ar-spectrum",
+  "stack": {
+    "incident": { "refractiveIndex": 1 },
+    "layers": [
+      { "refractiveIndex": 1.224744871391589, "thicknessNm": 81.64965809277261 }
+    ],
+    "substrate": { "refractiveIndex": 1.5 }
+  },
+  "wavelengthStartNm": 300,
+  "wavelengthStopNm": 700,
+  "wavelengthStepNm": 5,
+  "angleDeg": 0
+}

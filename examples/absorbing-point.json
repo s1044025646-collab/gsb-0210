@@ -1,0 +1,12 @@
+{
+  "stack": {
+    "incident": { "refractiveIndex": 1 },
+    "layers": [
+      { "name": "passive-absorber", "refractiveIndex": { "re": 2.2, "im": 0.35 }, "thicknessNm": 80 }
+    ],
+    "substrate": { "refractiveIndex": 1.5 }
+  },
+  "wavelengthNm": 550,
+  "angleDeg": 18,
+  "polarization": "both"
+}
